@@ -1,0 +1,19 @@
+button{
+	background-color: transparent;
+	border-radius:50px;
+	width:60%;
+	height: 10vh;
+	color:#57CC99;
+
+}
+button:hover{
+	transform: scale(1.1);
+	color: white;
+}
+.row{
+	height: 30vh;
+	border: none;
+	margin: 0;
+	width: 100%;
+}
+.mySlides {display:none;width:;}
